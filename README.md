@@ -1,7 +1,7 @@
 # Giant Inflatable Hugging Robots
 
 For a summary of the project, the project poster can be found here: 
-[Poster](Hugging Poster.pdf)
+[Poster]("Hugging Poster.pdf")
 
 A copy of the complete thesis can be found here:
 [Thesis](Thesis.pdf)
